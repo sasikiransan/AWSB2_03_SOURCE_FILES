@@ -1,1 +1,3 @@
 curl -X GET "https://jzr9in7no8.execute-api.ap-southeast-2.amazonaws.com/access" -H "x-username: <USERNAME>" -H "x-totp-code: <CODE>" -H "Content-Type: application/json" --ssl-no-revoke
+
+curl ifconfig.me {run this command to find ur ip address}
